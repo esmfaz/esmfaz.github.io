@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inside Wants Out</title>
+	<atom:link href="http://esmfaz.github.io/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>http://esmfaz.github.io/</link>
+	<description>the burgeoning internet empire of joshua connolly</description>
+	<lastBuildDate>Wed, 28 Dec 2016 05:36:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7</generator>
+	<item>
+		<title>Brand New Working Directory and Work Directives</title>
+		<link>http://esmfaz.github.io/index.php/2016/12/28/brand-new-working-directory-and-work-directives/</link>
+		<comments>http://esmfaz.github.io/index.php/2016/12/28/brand-new-working-directory-and-work-directives/#respond</comments>
+		<pubDate>Wed, 28 Dec 2016 05:36:21 +0000</pubDate>
+		<dc:creator><![CDATA[Joshua Connolly]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://esmfaz.github.io/?p=27</guid>
+		<description><![CDATA[Hello again, world. I&#8217;ve updated my employment status to &#8220;gainfully employed&#8221; and now I&#8217;m working with new software I couldn&#8217;t afford on my own as well as updating this WordPress working directory, which I obviously can afford. Things have been worse and I&#8217;m trying my hardest to improve every day. It&#8217;s the best plan I&#8217;ve seen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hello again, world. I&#8217;ve updated my employment status to &#8220;gainfully employed&#8221; and now I&#8217;m working with new software I couldn&#8217;t afford on my own as well as updating this WordPress working directory, which I obviously can afford. Things have been worse and I&#8217;m trying my hardest to improve every day. It&#8217;s the best plan I&#8217;ve seen out there so I&#8217;ll stick with it.</p>
+<p>I&#8217;ve updated the [footer.php] template to reflect how I&#8217;m posting this site as cheaply as possible, basically only paying for a domain name. The rest is handled by the Static Site Plugin for WordPress, and GitHub pages. I hereby offer my humble appreciation for that internet toolkit that came to me assembled and ready to plug and play.</p>
+<p>The new gig details will stay under wraps for now but in time, I hope to elaborate on that as well. Let&#8217;s say after I get past the one year mark.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://esmfaz.github.io/index.php/2016/12/28/brand-new-working-directory-and-work-directives/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The time has come&#8230;</title>
+		<link>http://esmfaz.github.io/index.php/2016/04/24/the-time-has-come/</link>
+		<pubDate>Sun, 24 Apr 2016 05:41:02 +0000</pubDate>
+		<dc:creator><![CDATA[Joshua Connolly]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://esmfaz.github.io/?p=8</guid>
+		<description><![CDATA[This is the very first thing I have to say on my outrageously-easy-to-deploy WordPress blog: the time has come for me to open up my insides to the world. I don&#8217;t want to say &#8220;Hello World!&#8221; because, as a marketing major turned wannabe-technologist, that has always struck me as evidence of nothing more important to say. But [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This is the very first thing I have to say on my outrageously-easy-to-deploy WordPress blog: the time has come for me to open up my insides to the world. I don&#8217;t want to say &#8220;Hello World!&#8221; because, as a marketing major turned wannabe-technologist, that has always struck me as evidence of nothing more important to say. But then, the theme I&#8217;m using already did that once and then, apparently, I did it again while talking about how unimportant the act is. I leave you with this thought. Saying hello to the world is now much more important to me than I ever thought it could be.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://esmfaz.github.io/index.php/2016/04/24/hello-world/</link>
+		<pubDate>Sun, 24 Apr 2016 04:55:40 +0000</pubDate>
+		<dc:creator><![CDATA[Joshua Connolly]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://esmfaz.github.io/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This was my first post. I Edited and decided not to delete it, then decided to start writing!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This was my first post. I Edited and decided not to delete it, then decided to start writing!</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
